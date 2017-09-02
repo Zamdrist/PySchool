@@ -1,5 +1,4 @@
 # PySchool
-One off Python projects and miscellaneous code for school
 
 ITEC 1050-90 Programming Logic and Design
 
