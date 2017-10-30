@@ -1,0 +1,25 @@
+# Chapter X Programming Exercises X - <name>
+# Author: Steve Schroeder
+# <description>
+#
+
+
+def main():
+    program_input()
+    program_processing()
+    program_output()
+
+
+def program_input():
+    return
+
+
+def program_processing():
+    return
+
+
+def program_output():
+    print()
+
+
+main()
