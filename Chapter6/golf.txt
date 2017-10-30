@@ -1,0 +1,8 @@
+Name=Steve
+Score=100
+Name=Jeremy
+Score=78
+Name=Andy
+Score=77
+Name=Janet
+Score=99
