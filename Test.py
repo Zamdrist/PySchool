@@ -1,7 +1,9 @@
-for number in range(1, 10):
-    print(number)
+# for number in range(1, 10):
+#     print(number)
+#
+# numbers = ['A', 'B', 'C', 'D']
+#
+# for number in  numbers:
+#     print(number)
 
-numbers = [1,2,3,4,5,6,7,8,9,10]
-
-for number in  numbers:
-    print(number)
+print(ord("a"))
