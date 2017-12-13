@@ -1,9 +1,11 @@
-# for number in range(1, 10):
-#     print(number)
-#
-# numbers = ['A', 'B', 'C', 'D']
-#
-# for number in  numbers:
-#     print(number)
+class Person:
+    def __init__(self, firstName, middleName, lastName):
+        self._firstName = firstName
+        self._middleName = middleName
+        self._lastName = lastName
 
-print(ord("a"))
+person_list = []
+person = Person("Steven", "Ross", "Schroeder")
+person_list.append(person)
+personObj = person_list[0]
+print(personObj._firstName)
